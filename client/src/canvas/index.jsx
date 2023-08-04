@@ -4,7 +4,6 @@ import { Environment, Center } from '@react-three/drei';
 import Shirt from './Shirt';
 import Backdrop from './Backdrop';
 import CameraRig from './CameraRig';
-import React from 'react';
 
 const CanvasModel = () => {
     return (
